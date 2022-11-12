@@ -1,5 +1,5 @@
 # The-Movie-Database-Analysis
-this project is to analyse the various trends in the data set and examine the correlation between the differnt variables
+This project is to focused on the analysis of various trends in the movie data set and also examininf the correlation between the different variables in the data.
 # How to run locally
 Clone this with "git clone" command
 On your local terminal, install all packages for the python library
